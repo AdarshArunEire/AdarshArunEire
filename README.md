@@ -12,7 +12,12 @@
 ====================================================================================================
           [ engineering ]  -----+-----  [ mathematics ]  -----+-----  [ computation ]
 ====================================================================================================
-```  
+```
+
+<p align="center">
+  <img src="assets/intro.gif" alt="A terminal session: cat about.txt, ls rabbit-holes, then the first project question" width="760">
+</p>
+
 I'm **Adarsh**, an engineering student at **Trinity College Dublin**.
 
 I like problems that start with a simple model, turn into a mathematical question, and eventually force me  
@@ -40,3 +45,10 @@ Reinforcement learning, internal drives, and RL downfalls that ~~NEVER~~ don't a
 `IEEE Signal Processing Cup '27` · `First year engineer` · `Huawei Tech Arena` · `and many more..`
 
 
+<p align="center">
+  <a href="https://github.com/AdarshArunEire"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/adarsh-me-light.png"><img src="assets/buttons/adarsh-me-dark.png" alt="Adarsh on GitHub" width="88" height="31"></picture></a>
+  <a href="https://www.tcd.ie/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/trinity-light.png"><img src="assets/buttons/trinity-dark.png" alt="Trinity College Dublin" width="88" height="31"></picture></a>
+  <a href="https://github.com/AdarshArunEire/Riemannian-Factor-Dynamics"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/geometry-light.png"><img src="assets/buttons/geometry-dark.png" alt="Riemannian Factor Dynamics" width="88" height="31"></picture></a>
+  <a href="https://github.com/AdarshArunEire/Eigenvector-Dynamics-Beyond-the-RMT-Null"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/eigen-light.png"><img src="assets/buttons/eigen-dark.png" alt="Eigenvector Dynamics Beyond the RMT Null" width="88" height="31"></picture></a>
+  <a href="https://github.com/AdarshArunEire/homeostatic-agents"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/agents-light.png"><img src="assets/buttons/agents-dark.png" alt="Homeostatic Agents" width="88" height="31"></picture></a>
+</p>
