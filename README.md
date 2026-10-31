@@ -1,10 +1,8 @@
 <p align="center">
-  <a href="assets/play.md" title="Play">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="assets/poster-light.png">
-    <img src="assets/poster-dark.png" alt="ASCII banner in a terminal, with a play button. Click to play the animation." width="820">
+    <source media="(prefers-color-scheme: light)" srcset="assets/intro-light.gif">
+    <img src="assets/intro-dark.gif" alt="Terminal animation: the ASCII banner, a short bio, and the first project question" width="820">
   </picture>
-  </a>
 </p>
 
 I'm **Adarsh**, an engineering student at **Trinity College Dublin**.
