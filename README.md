@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/intro-light.gif">
-    <img src="assets/intro-dark.gif" alt="Terminal animation: the ASCII banner, a short bio, and the first project question" width="820">
+    <img src="assets/intro-dark.gif" alt="Terminal animation: the ASCII banner, a short bio, and the first project question" width="100%">
   </picture>
 </p>
 <p align="center">
