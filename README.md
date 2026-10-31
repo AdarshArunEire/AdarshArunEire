@@ -2,7 +2,7 @@
   <a href="assets/play.md" title="Click to play the animation">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="assets/poster-light.png">
-    <img src="assets/poster-dark.png" alt="Terminal showing the ADARSH PRN ASCII banner, a short bio, and the first project question. Click to play the animation." width="820">
+    <img src="assets/poster-dark.png" alt="Terminal showing the ASCII banner, a short bio, and the first project question. Click to play the animation." width="820">
   </picture>
   </a>
 </p>
