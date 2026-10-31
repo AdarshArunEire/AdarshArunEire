@@ -1,21 +1,10 @@
-```
-====================================================================================================
-
-   ###           ##                              ##               ########
-  ## ##          ##                              ##              ##      ##
- ##   ##    #######   ######   ## ####   ######  ## ####        ##  ####  ##  #########    ######
-##     ##  ##    ##        ##  ###      ##       ###   ##       ## ##  ## ##  ##  ##  ##  ##    ##
-#########  ##    ##   #######  ##        #####   ##    ##       ##  ######    ##  ##  ##  ########
-##     ##  ##    ##  ##    ##  ##             ## ##    ##        ##           ##  ##  ##  ##
-##     ##   #######   #######  ##       ######   ##    ##         ########    ##  ##  ##   ######
-
-====================================================================================================
-          [ engineering ]  -----+-----  [ mathematics ]  -----+-----  [ computation ]
-====================================================================================================
-```
-
 <p align="center">
-  <img src="assets/intro.gif" alt="A terminal session: cat about.txt, ls rabbit-holes, then the first project question" width="760">
+  <a href="assets/play.md" title="Click to play the animation">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/poster-light.png">
+    <img src="assets/poster-dark.png" alt="Terminal showing the ADARSH PRN ASCII banner, a short bio, and the first project question. Click to play the animation." width="820">
+  </picture>
+  </a>
 </p>
 
 I'm **Adarsh**, an engineering student at **Trinity College Dublin**.
@@ -43,7 +32,6 @@ Reinforcement learning, internal drives, and RL downfalls that ~~NEVER~~ don't a
 ### on the side
 
 `IEEE Signal Processing Cup '27` · `First year engineer` · `Huawei Tech Arena` · `and many more..`
-
 
 <p align="center">
   <a href="https://github.com/AdarshArunEire"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/adarsh-me-light.png"><img src="assets/buttons/adarsh-me-dark.png" alt="Adarsh on GitHub" width="88" height="31"></picture></a>
