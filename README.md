@@ -5,14 +5,11 @@
   </picture>
 </p>
 <p align="center">
-  <a href="https://github.com/AdarshArunEire/Riemannian-Factor-Dynamics"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/geometry-light.png"><img src="assets/buttons/geometry-dark.png" alt="Riemannian Factor Dynamics" width="88" height="31"></picture></a>
-  <a href="https://github.com/AdarshArunEire/Eigenvector-Dynamics-Beyond-the-RMT-Null"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/eigen-light.png"><img src="assets/buttons/eigen-dark.png" alt="Eigenvector Dynamics Beyond the RMT Null" width="88" height="31"></picture></a>
-  <a href="https://github.com/AdarshArunEire/homeostatic-agents"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/agents-light.png"><img src="assets/buttons/agents-dark.png" alt="Homeostatic Agents" width="88" height="31"></picture></a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/adarsharun09"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/linkedin-light.png"><img src="assets/buttons/linkedin-dark.png" alt="Adarsh on LinkedIn" width="88" height="31"></picture></a>
-  <a href="mailto:aruna@tcd.ie"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/email-light.png"><img src="assets/buttons/email-dark.png" alt="Email Adarsh" width="88" height="31"></picture></a>
+  <a href="https://github.com/AdarshArunEire/Riemannian-Factor-Dynamics"><img src="https://img.shields.io/badge/project-Riemannian-1f6feb?labelColor=30363d" alt="Riemannian Factor Dynamics"></a>
+  <a href="https://github.com/AdarshArunEire/Eigenvector-Dynamics-Beyond-the-RMT-Null"><img src="https://img.shields.io/badge/project-Eigenvector-1f6feb?labelColor=30363d" alt="Eigenvector Dynamics Beyond the RMT Null"></a>
+  <a href="https://github.com/AdarshArunEire/homeostatic-agents"><img src="https://img.shields.io/badge/project-Homeostatic-1f6feb?labelColor=30363d" alt="Homeostatic Agents"></a>
+  <a href="https://www.linkedin.com/in/adarsharun09"><img src="https://img.shields.io/badge/linkedin-adarsharun09-238636?labelColor=30363d" alt="Adarsh on LinkedIn"></a>
+  <a href="mailto:aruna@tcd.ie"><img src="https://img.shields.io/badge/email-aruna%40tcd.ie-238636?labelColor=30363d" alt="Email Adarsh"></a>
 </p>
 
 
