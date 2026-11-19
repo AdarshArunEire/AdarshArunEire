@@ -5,12 +5,14 @@
   </picture>
 </p>
 <p align="center">
+  <a href="https://github.com/AdarshArunEire?tab=repositories"><img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AdarshArunEire/AdarshArunEire/main/stats/repo-views.json&label=repo%20views&color=1f6feb&labelColor=30363d" alt="Repo views"></a>
   <a href="https://github.com/AdarshArunEire/Riemannian-Factor-Dynamics"><img src="https://img.shields.io/badge/project-Riemannian-1f6feb?labelColor=30363d" alt="Riemannian Factor Dynamics"></a>
   <a href="https://github.com/AdarshArunEire/Eigenvector-Dynamics-Beyond-the-RMT-Null"><img src="https://img.shields.io/badge/project-Eigenvector-1f6feb?labelColor=30363d" alt="Eigenvector Dynamics Beyond the RMT Null"></a>
   <a href="https://github.com/AdarshArunEire/homeostatic-agents"><img src="https://img.shields.io/badge/project-Homeostatic-1f6feb?labelColor=30363d" alt="Homeostatic Agents"></a>
   <a href="https://www.linkedin.com/in/adarsharun09"><img src="https://img.shields.io/badge/linkedin-adarsharun09-238636?labelColor=30363d" alt="Adarsh on LinkedIn"></a>
   <a href="mailto:aruna@tcd.ie"><img src="https://img.shields.io/badge/email-aruna%40tcd.ie-238636?labelColor=30363d" alt="Email Adarsh"></a>
 </p>
+
 
 
 I'm **Adarsh**, an engineering student at **Trinity College Dublin**.
